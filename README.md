@@ -1,5 +1,5 @@
 <h1 align="center">Anshika Nigam | Senior Consultant - Data Analytics</h1>
-<h3 align="center">Senior Data Analyst transitioning into a Data Scientist role.</h3>
+<h3 align="center">Senior Data Analyst transitioning into a Data Science role.</h3>
 
 ### Experiences
 
