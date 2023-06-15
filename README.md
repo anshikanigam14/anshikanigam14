@@ -10,7 +10,7 @@ Languages & Tools : Python (Pandas, Numpy, BeautifulSoup, Matplotlib, Seaborn, P
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Tableau)
 
-My Projects
+**PROJECTS**
 
 **Visualizing the Airbnb Realm: A Visual Journey into Airbnb Insights : [Blog](https://medium.com/@anshika.nigam/visualizing-the-airbnb-realm-a-visual-journey-into-airbnb-insights-fba9c2305b2f)**
 
