@@ -3,7 +3,7 @@
 
 ### Experiences
 
-Areas: Data Science, Machine Learning, Web Scraping, Data Analytics and Visualization, Data Science, Fraud Analytics, Loss Prevention
+Areas: Data Science, Machine Learning, Web Scraping, Data Analytics and Visualization, Fraud Analytics, Loss Prevention
 Languages & Tools : Python (Pandas, Numpy, BeautifulSoup, Matplotlib, Seaborn, Plotly) , R, SQL, Power BI, Tableau
 
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
